@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project 
 
-## Softec Next js Project 
+## digitalkech Next js Project 
 
  
 
 ```bash
- them pure 
+ them digitalkech 
 ```
